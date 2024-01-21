@@ -1,6 +1,6 @@
 var users = [
     { username: "yeasib", password: "y98", access: ["Math-03", "Java"] },
-    { username: "nishi", password: "n123", access: ["Java"] },
+    { username: "mowmita", password: "m98", access: ["Java"] },
 ];
 
 function authenticate() {
